@@ -1108,10 +1108,10 @@ body.offcanvas .xwezi-nav-toggle {
 
 .about-img .about-img-2 {
     width: 25% !important;
-    height: 120px;
+    height: 100px;
     position: absolute;
     bottom: 60px;
-    right: 104px;
+    right: 60px;
 }
 
 /* Signature */
@@ -1970,7 +1970,7 @@ ol.comment-list li .children li {
 }
 
 .footer-section .brand img {
-    max-width: 105px;
+    max-width: 150px;
     margin-bottom: 15px;
 }
 
